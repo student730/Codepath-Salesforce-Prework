@@ -96,7 +96,7 @@ Creating this game gave me a ton of complex ideas about how to improve this game
 
 **4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)**
 
-If I had a few more hours to work on the game, I would add a couple of features to this game. The first one would be to incorporate pictures when the buttons are lit up. My game reminds me of the classic card game ‘Taco, Cat, Goat, Cheese, Pizza’ so I would incorporate that into the game. I would add the word ‘Fox’ to the list of 5 words. Then I would correspond each of these words to a color in the lit-up versions of my buttons or the darker colors. I really like my current color palette so I would find a clipart of each image and insert it onto a background of the current lit-up color. And then I would add these images to my buttons only when they are lit up. So, the icons aren’t visible by default but when the computer shows the sequence or the user guesses it, it shows up as a pleasant surprise. I would also change the audio of each button to speak out the word associated with the icon to create a complete experience,
+If I had a few more hours to work on the game, I would add a couple of features to this game. The first one would be to incorporate pictures when the buttons are lit up. My game reminds me of the classic card game ‘Taco, Cat, Goat, Cheese, Pizza’ so I would incorporate that into the game. I would add the word ‘Fox’ to the list of 5 words. Then I would correspond each of these words to a color in the lit-up versions of my buttons or the darker colors. I really like my current color palette so I would find a clipart of each image and insert it onto a background of the current lit-up color. And then I would add these images to my buttons only when they are lit up. So, the icons aren’t visible by default but when the computer shows the sequence or the user guesses it, it shows up as a pleasant surprise. I would also change the audio of each button to speak out the word associated with the icon to create a complete experience.
 
 
 
@@ -105,6 +105,8 @@ If I had a few more hours to work on the game, I would add a couple of features 
 [My 5-minute Interview Recording](your-link-here)
 
 ## Resume PDF URL Link
+
+Added in lieu of the missing LinkedIn.
 
 [My Resume](your-link-here)
 
