@@ -104,11 +104,9 @@ If I had a few more hours to work on the game, I would add a couple of features 
 
 [My 5-minute Interview Recording](your-link-here)
 
-## Resume PDF URL Link
+## My LinkedIn URL Link
 
-Added in lieu of the missing LinkedIn.
-
-[My Resume](your-link-here)
+[My LinkedIn](your-link-here)
 
 
 ## License
