@@ -47,17 +47,56 @@ Here is a GIF with a game lost and a game won.
 
 
 ## Reflection Questions
-1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here. 
-[YOUR ANSWER HERE]
+**1. If you used any outside resources to help complete your submission (websites, books, people, etc) list them here.**
 
-2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words) 
-[YOUR ANSWER HERE]
+https://www.w3schools.com/cssref/css_colors.asp
 
-3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+**2. What was a challenge you encountered in creating this submission (be specific)? How did you overcome it? (recommended 200 - 400 words)**
 
-4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words) 
-[YOUR ANSWER HERE]
+The most challenging concept for me when creating the game was perfecting the game logic. Though I have a good grasp on the nestled conditional if/else statements, I would keep running into incorrect implementation due to simple errors. I had to make sure my code reflected when to output “game lost”, when to move on to the next sequence and when to output “game won”. In order to overcome this challenge, I made a flowchart for myself, that was based on the chart given in the pre-work instructions. I broke it down into each scenario: Losing the game, Next Sequence, Winning the Game. Then I made sure, each of the scenarios individually was working well and then I came back to make sure my if/else statements worked with each other as well. Then I tested each of the scenarios again in the preview until I was satisfied.
+
+So steps to rectify included:
+
+Step 1: Identify the section of the code that is causing errors.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I identified that the game logic section of javascript needed improvement.
+
+Step 2: Identify where in the section code is the problem rooting from.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I identified that my if/else statements were causing the error.
+
+Step 3: Review the underlying concept.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I mentally recalled the basics of the nestled conditional if/else statements.
+
+Step 4: Create a roadmap to the resolution.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I decided I would create a flowchart to break down my conditions
+
+Step 5: Reference relevant material
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I referred to the pre-work instructions to cross-check my flowchart.
+
+Step 6: Break down the task into smaller pieces
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I separated my scenarios in the flowchart and worked on them individually.
+
+Step 7: Integrate the pieces.
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I then made sure my if/else statements worked with each other.
+
+Step 8: Test and Repeat
+
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;I used preview to test out each scenario until it ran as intended.
+
+**3. What questions about web development do you have after completing your submission? (recommended 100 - 300 words)**
+
+Creating this game gave me a ton of complex ideas about how to improve this game. One of the ideas I had was to make the game adaptive to the user. Not in terms of levels but to make the game such so it changed sequence each time and the speed and length of the next sequence would entirely depend on the user’s old behavior. So, if the user had been getting guesses correct, the game would speed up and the sequence would be longer but if the user had been getting guesses incorrect the game would slow down and the sequence would shorten. I know that Dynamic/Adaptive Difficulty Adjustment is a concept that is already widespread in game development but I want to know more about the probability and the algorithms involved in making the game adaptive according to user behavior.
+
+
+**4. If you had a few more hours to work on this project, what would you spend them doing (for example: refactoring certain functions, adding additional features, etc). Be specific. (recommended 100 - 300 words)**
+
+If I had a few more hours to work on the game, I would add a couple of features to this game. The first one would be to incorporate pictures when the buttons are lit up. My game reminds me of the classic card game ‘Taco, Cat, Goat, Cheese, Pizza’ so I would incorporate that into the game. I would add the word ‘Fox’ to the list of 5 words. Then I would correspond each of these words to a color in the lit-up versions of my buttons or the darker colors. I really like my current color palette so I would find a clipart of each image and insert it onto a background of the current lit-up color. And then I would add these images to my buttons only when they are lit up. So, the icons aren’t visible by default but when the computer shows the sequence or the user guesses it, it shows up as a pleasant surprise. I would also change the audio of each button to speak out the word associated with the icon to create a complete experience,
 
 
 
