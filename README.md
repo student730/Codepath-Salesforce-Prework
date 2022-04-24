@@ -65,6 +65,10 @@ Here is a GIF with a game lost and a game won.
 
 [My 5-minute Interview Recording](your-link-here)
 
+## Resume PDF URL Link
+
+[My Resume](your-link-here)
+
 
 ## License
 
