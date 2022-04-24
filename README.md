@@ -68,7 +68,7 @@ Here is a GIF with a game lost and a game won.
 
 ## License
 
-    Copyright [NITYA VAIDYA]
+    Copyright Nitya Vaidya
 
     Licensed under the Apache License, Version 2.0 (the "License");
     you may not use this file except in compliance with the License.
