@@ -3,7 +3,7 @@ Prework including a memory game, reflection about the game and a short interview
 
 # Pre-work - *Match the Sequence! - A Memory Game*
 
-**Match the Sequence! - A Memory Game** is a Light & Sound Memory game to apply for CodePath's SITE Program. 
+**Match the Sequence! - A Memory Game** is a Light & Sound Memory game to apply for CodePath's FTL Program. 
 
 Submitted by: **Nitya Vaidya**
 
